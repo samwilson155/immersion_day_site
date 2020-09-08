@@ -1,0 +1,1 @@
+aws s3 cp /Users/tlauducc/Amazon\ WorkDocs\ Drive/Shared\ With\ Me/June\ 16th\ -\ Intro\ to\ AWS\ Immersion\ Day/Agenda\ website/index.html s3://aws-tom-lauducci-events/2020-06-16-intro-virtual/
